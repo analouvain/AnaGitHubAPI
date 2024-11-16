@@ -2,7 +2,7 @@
 // Importando o framework Express
 const express = require('express'); 
 // Importando o controlador da API
-const ApiController = require('./apiController'); 
+const ApiController = require('./ApiController'); 
 // Importando o logger
 const logger = require('./logger'); 
 
