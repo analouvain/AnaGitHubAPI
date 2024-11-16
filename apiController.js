@@ -29,4 +29,4 @@ class ApiController {
     }
 }
 
-module.exports = apiController; // Exporta a classe ApiController
+module.exports = ApiController; // Exporta a classe ApiController
