@@ -43,4 +43,4 @@ class GitHubApi {
     }
 }
 
-module.exports = GitHubApi; // Exporta a classe GitHubApi
+module.exports = githubapi; // Exporta a classe GitHubApi
